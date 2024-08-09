@@ -5,7 +5,6 @@ import 'package:dipl/core/exceptions/exception_handler_mixin.dart';
 import 'package:dipl/core/exceptions/network_exception.dart';
 import 'package:dipl/core/network/app_response.dart';
 import 'package:dipl/core/network/network_service.dart';
-import 'package:dipl/core/utils/logger.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class DioNetworkService extends NetworkService with ExceptionHandlerMixin {

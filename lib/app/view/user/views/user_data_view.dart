@@ -1,6 +1,5 @@
 import 'package:dipl/app/view/user/repository/user_vm.dart';
 import 'package:dipl/app/view/user/views/widgets/empty.dart';
-import 'package:dipl/core/utils/assets_path.dart';
 import 'package:dipl/core/utils/enums.dart';
 import 'package:dipl/core/utils/formatter.dart';
 import 'package:dipl/core/utils/ui_helpers.dart';
